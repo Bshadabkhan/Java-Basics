@@ -9,6 +9,8 @@ public class bytess {
         float nums = 157.87f;
         long num2 = 8000;
         double num3 = 1545.45;
+        char ch = 'a';
+        System.out.println(ch);
         System.out.println("Value of num3: " + num3);
         System.out.println("Value of nums: " + nums);
         System.out.println("Value of num2: " + num2);
