@@ -10,6 +10,8 @@ public class bytess {
         long num2 = 8000;
         double num3 = 1545.45;
         char ch = 'a';
+        boolean fl = true;
+        System.out.println(fl);
         System.out.println(ch);
         System.out.println("Value of num3: " + num3);
         System.out.println("Value of nums: " + nums);
