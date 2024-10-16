@@ -6,8 +6,10 @@ public class stringconcat {
         String name = "Shadab";
         String lastname = "khan";
         String fullname = name + " " + lastname;
-        System.out.println(fullname);
+        name += lastname + name;
+        System.out.println(lastname + name);
 
+        System.out.println(fullname);
     }
 
 }
