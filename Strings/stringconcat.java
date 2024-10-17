@@ -8,7 +8,7 @@ public class stringconcat {
         String fullname = name + " " + lastname;
         name += lastname + name;
         System.out.println(lastname + name);
-
+        Abhi
         System.out.println(fullname);
     }
 
